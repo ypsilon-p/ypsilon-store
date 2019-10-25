@@ -13,7 +13,7 @@ class Store {
             return false;
         }
     }
-    
+
     runMutation(mutation, key, value) {
         if (this.mutations.hasOwnProperty(key) && this.mutations[key].hasOwnProperty(mutation)) {
             const run = this.mutations[key][mutation];
