@@ -1,4 +1,4 @@
-# ypsilon-sotre
+# ypsilon-store
 **Simple and flexible state management with javascript.** 
 
 [![Dependabot badge](https://flat.badgen.net/dependabot/ypsilon-p/ypsilon-store?icon=dependabot)](https://dependabot.com/)
