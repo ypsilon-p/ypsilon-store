@@ -1,3 +1,7 @@
 import '../styles/index.scss';
+import app from "./example/app";
 
-console.log('webpack starterkit');
+document.body.appendChild(
+    new app({}, {}).render()
+);
+
